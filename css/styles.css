@@ -2,6 +2,18 @@ ul {
   list-style-type: none;"
 }
 
-.big {
-  font-weight: bold;
+.sidebar {
+  position:absolute;
+  width: 20%;
+  height: 100%;
+  top:0;
+  left:0;
+}
+
+.topper {
+  position: absolute;
+  width: 80%
+  height: 25px;
+  top:0;
+  right:0;
 }

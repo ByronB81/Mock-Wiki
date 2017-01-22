@@ -1,26 +1,13 @@
-body {
-  font-family: sans-serif;
-  height: 100%
+.sidebar {
+  float:left;
+  width:220px;
+  margin:0;
+  border-right: 1px solid #EAEAEA;
+  padding-right: 14px
 }
 
-.container {
-  display: table;
-  height: 260 px;
-}
-
-.sidebar-nav {
- min-width: 210 px;
- max-width: 215 px
- vertical-align: top;
- position: relative;
- background-color: green;
-}
-
-#Navigation li
-{
-float:left;
-list-style:none;
-padding-right:3%;
-padding-top:6px;
-font-size:100%;
+.main-body{
+  float:right;
+  width: 100%;
+  max-width: 620px;
 }
