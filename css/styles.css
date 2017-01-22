@@ -5,11 +5,3 @@ ul {
 .big {
   font-weight: bold;
 }
-
-.w3-sidenav w3-white w3-card-2 {
-  position:absolute;
-  top: 0;
-  margin: 0;
-  padding:0;
-  list-style: none
-}
